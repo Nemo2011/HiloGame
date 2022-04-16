@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HiloGame:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HiloGame_jar</output-path>
+    <root id="archive" name="HiloGame.jar">
+      <element id="module-output" name="HiloGame" />
+    </root>
+  </artifact>
+</component>
